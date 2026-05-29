@@ -143,3 +143,11 @@ The SOC Dashboard is gated behind an authentication portal. Use the following cr
     "test_size": 0.2
   }
   ```
+
+---
+
+## 👤 Developer & Maintainer
+
+* **Rohan Ramgopal**
+  * GitHub: [@rohanramgopal](https://github.com/rohanramgopal)
+
